@@ -2,14 +2,15 @@
 <meta name="viewport" content="width=device-width, initial-scale=1">
   <style>
 
-.column left ul {
+
+
+.vertical-menu {
+  width: 200px;
+  ul {
   list-style-type: none;
   margin: 0;
   padding: 0;
 }
-
-.vertical-menu {
-  width: 200px;
 }
 
 .vertical-menu a {
