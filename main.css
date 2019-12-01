@@ -33,8 +33,6 @@
   clear: both;
 }
 
-.cssVersion {
-    font-family: calibri;
-}
+body{font-family:Arial; font-size:14px; font-color:red;}
 </style>
 </head>
