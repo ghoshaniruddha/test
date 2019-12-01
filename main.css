@@ -11,12 +11,19 @@
   box-sizing: border-box;
 }
 
-/* Create two equal columns that floats next to each other */
+/* Create two unequal columns that floats next to each other */
 .column {
   float: left;
-  width: 50%;
   padding: 10px;
-  height: ; /* Should be removed. Only for demonstration */
+  height: auto; /* Should be removed. Only for demonstration */
+}
+
+.left {
+  width: 25%;
+}
+
+.right {
+  width: 75%;
 }
 
 /* Clear floats after the columns */
