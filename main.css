@@ -32,5 +32,9 @@
   display: table;
   clear: both;
 }
+
+.cssVersion {
+    font-family: calibri;
+}
 </style>
 </head>
