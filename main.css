@@ -2,6 +2,24 @@
 <meta name="viewport" content="width=device-width, initial-scale=1">
   <style>
 
+ ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+.vertical-menu {
+  width: 200px;
+}
+
+.vertical-menu a {
+
+  color: black;
+  display: block;
+  padding: 12px;
+  text-decoration: none;
+}
+
 * {
   box-sizing: border-box;
 }
